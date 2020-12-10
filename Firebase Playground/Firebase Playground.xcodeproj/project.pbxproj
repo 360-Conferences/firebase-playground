@@ -13,6 +13,8 @@
 		418FA95C2581D622007CCB3E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 418FA9472581D620007CCB3E /* ContentView.swift */; };
 		418FA95D2581D622007CCB3E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 418FA9482581D622007CCB3E /* Assets.xcassets */; };
 		418FA95E2581D622007CCB3E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 418FA9482581D622007CCB3E /* Assets.xcassets */; };
+		418FA96A2581D6AB007CCB3E /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 418FA9692581D6AB007CCB3E /* GoogleService-Info.plist */; };
+		418FA96B2581D6AB007CCB3E /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 418FA9692581D6AB007CCB3E /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,7 @@
 		418FA9552581D622007CCB3E /* Firebase Playground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Firebase Playground.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		418FA9572581D622007CCB3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		418FA9582581D622007CCB3E /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		418FA9692581D6AB007CCB3E /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +63,7 @@
 				418FA9462581D620007CCB3E /* Firebase_PlaygroundApp.swift */,
 				418FA9472581D620007CCB3E /* ContentView.swift */,
 				418FA9482581D622007CCB3E /* Assets.xcassets */,
+				418FA9692581D6AB007CCB3E /* GoogleService-Info.plist */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -169,6 +173,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				418FA95D2581D622007CCB3E /* Assets.xcassets in Resources */,
+				418FA96A2581D6AB007CCB3E /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -177,6 +182,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				418FA95E2581D622007CCB3E /* Assets.xcassets in Resources */,
+				418FA96B2581D6AB007CCB3E /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

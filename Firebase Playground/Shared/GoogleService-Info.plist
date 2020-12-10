@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>980088334830-rnhu89293qap6sgttc3fr07fo2trodua.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.980088334830-rnhu89293qap6sgttc3fr07fo2trodua</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD61elavtSBQAX2XGphKdSl5MmibUVnHiA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>980088334830</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.360conferences.Firebase-Playground</string>
+	<key>PROJECT_ID</key>
+	<string>conferences-dev-93348</string>
+	<key>STORAGE_BUCKET</key>
+	<string>conferences-dev-93348.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:980088334830:ios:e590736eaeed05e31506ff</string>
+</dict>
+</plist>
